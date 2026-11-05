@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-checkout-extensibility-dart-mobile",
+  "capabilityKey": "planned:ecommerce:checkout-extensibility",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_checkout_extensibility_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/checkout-extensibility.md",
+  "presentationPlan": "projects/ecommerce/features/checkout-extensibility.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
